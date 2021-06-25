@@ -10,8 +10,8 @@ Sebastien Menozzi - IMAGE 2022
 
 - run the shell **run.sh**
 
-![](front.png)
+![](images/front.png)
 
-![](back.png)
+![](images/back.png)
 
-![](side.png)
+![](images/side.png)
